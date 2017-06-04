@@ -73,3 +73,6 @@ What we learned, how we learned it, and the order we learned it in.
 
 ## Code examples
 [code-examples](https://github.com/hihi-2017/code-examples)
+
+## Videos
+[videos](https://github.com/hihi-2017/videos)
